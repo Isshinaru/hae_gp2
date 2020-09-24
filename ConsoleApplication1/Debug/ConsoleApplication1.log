@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+d:\programmes(data)\windows\documents\consoleapplication1\consoleapplication1\arr.hpp(16): warning C4297: 'Arr<int>::~Arr' : la fonction lève une exception alors qu'elle est présumée ne pas le faire
+  d:\programmes(data)\windows\documents\consoleapplication1\consoleapplication1\arr.hpp(16): note: le destructeur ou l'annulateur d'allocation comporte une spécification d'exception qui ne peut pas être levée (éventuellement implicite)
+  d:\programmes(data)\windows\documents\consoleapplication1\consoleapplication1\arr.hpp(14): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  d:\programmes(data)\windows\documents\consoleapplication1\consoleapplication1\consoleapplication1.cpp(11): note: voir la référence à l'instanciation de classe modèle 'Arr<int>' en cours de compilation
+  ConsoleApplication1.vcxproj -> D:\Programmes(DATA)\Windows\Documents\ConsoleApplication1\Debug\ConsoleApplication1.exe

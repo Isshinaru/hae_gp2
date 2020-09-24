@@ -15,8 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Header.hpp">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Vect2T.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
     <ClInclude Include="pch.h">
       <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Arr.hpp">
+      <Filter>Fichiers sources</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
